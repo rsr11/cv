@@ -1,0 +1,52 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+nav{
+    display: flex;
+    background-color: rgb(214, 129, 16);
+    
+}
+ul{
+    display: flex;
+    list-style: none;
+    font-family: 'Anton', sans-serif;
+    font-weight: 900;
+}
+.second{
+    padding-left: 22cm;
+}
+.third{
+    padding-left: 2.5cm;
+}
+.fourth{
+    padding-left: 2.5cm;
+}
+section{
+    text-align: center;
+    display: flex;
+    margin-left: 50%;
+    margin-top: 0%;
+    
+}
+h1{
+    padding: 60px 0px 0px 0px;
+    background-image: url(bk.jpeg);
+    margin: 0%;
+    text-align: center;
+    font-family: 'Ms Madi', cursive;
+    font-size: 400%;
+    font-weight: 800;
+
+}
+.linki{
+    text-decoration: none;
+    color: black;
+    font-weight: 900;
+}
+.img{
+    margin-left: 30%;
+    margin-top: 40px;
+    border: 10px black solid;    
+}
+
